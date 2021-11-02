@@ -56,8 +56,24 @@ public class Class1 {
 	}
 	
 	private void america() {
+
 		// TODO Auto-generated method stub
 
 	}
 	
+
+    private void japan() {
+		// TODO Auto-generated method stub
+
+	}
+    
+    private void canada() {
+		// TODO Auto-generated method stub
+
+	}
+    
+    private void uae() {
+
+
+    }
 }
